@@ -59,12 +59,14 @@ header {
   text-decoration: none;
   font-size: 18px;
   margin-right: 50px;
+ 
 }
 .conta a:hover {
   color: tomato;
 }
 .conta img{
   cursor: pointer;
+   padding-right: 10px;
 }
 
 /* Final Header */

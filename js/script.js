@@ -14,4 +14,4 @@ function showSlide(index) {
 
 setInterval(() => {
   showSlide(currentIndex + 1);
-}, 6000);
+}, 3000);
