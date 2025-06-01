@@ -62,6 +62,10 @@ header {
 .conta a:hover {
   color: tomato;
 }
+.conta img{
+  cursor: pointer;
+   padding-right: 10px;
+}
 
 /* Sobre */
 .container-sobre {
@@ -90,16 +94,19 @@ header {
 
 .texto-sobre h3 {
   font-size: 2rem;
+  padding-bottom: 20px;
 }
 
 .texto-sobre p {
   text-align: left;
   font-size: 1rem;
   color: #555;
+  padding-bottom: 40px;
 }
 
 .texto-sobre h4 {
   font-size: 1.4rem;
+  padding-bottom: 30px;
 }
 
 .buttons-sobre {
